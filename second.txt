@@ -1,0 +1,2 @@
+This is for learning tags concept 
+Learnt merging, push-pull, branches, changing from one branch to another 
